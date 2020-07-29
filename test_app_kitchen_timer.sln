@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_app_kitchen_timer", "test_app_kitchen_timer\test_app_kitchen_timer.csproj", "{B6668DA0-4E21-44D6-85B2-1F2957A72D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B6668DA0-4E21-44D6-85B2-1F2957A72D16}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
